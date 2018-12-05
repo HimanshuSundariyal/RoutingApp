@@ -42,3 +42,6 @@ form.example::after {
     margin: 8px;
     max-width: 350px!important;
 }
+.recipe_details {width:500px; margin: 0 auto}
+.recipe_details a.btn {color: #fff;}
+.recipe_details img {margin-bottom: 11px;}
